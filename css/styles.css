@@ -60,6 +60,28 @@
         font-style: normal;
     }
 
+    h2{
+        color:navy;
+        cursor:default;
+        font-family: Roboto, sans-serif;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 40px;
+        text-decoration:none;
+        font-style: normal;
+    }
+
+    h1{
+        color:navy;
+        cursor:default;
+        font-family: Roboto, sans-serif;
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 60px;
+        text-decoration:none;
+        align:center;
+    }
+
     p{
         color:navy;
         cursor: default;
